@@ -1,1 +1,1 @@
-# Prueba-Tecnica-C-
+# PRUEBA TECNICA CON C-SHARP Y OPENCV
