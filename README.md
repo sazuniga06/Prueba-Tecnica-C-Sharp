@@ -77,12 +77,6 @@ en distintos escenarios con imágenes de diferentes tamaños.
 
 ---
 
-## 📷 Capturas de Interfaz
-
-> *(Puedes añadir aquí screenshots de la interfaz con imágenes de galletas, antes y después del procesamiento.)*
-
----
-
 ## 👨‍💻 Autor
 
 **Ing. Santiago Alejandro Zuñiga Melo**  
